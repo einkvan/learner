@@ -6,3 +6,5 @@ changes made in local repo
 some changes made on the remote
 
 another change made in the remote
+
+and another...
