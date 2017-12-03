@@ -22,3 +22,6 @@ and another...
 more changes done remotely that I want to add my local chages on top off - even if they are added later
 
 still wants to add more local edits after this...
+lokale endringer som skal inn sist!
+
+skal inn til slutt
