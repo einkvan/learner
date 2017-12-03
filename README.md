@@ -25,3 +25,5 @@ still wants to add more local edits after this...
 lokale endringer som skal inn sist!
 
 skal inn til slutt
+
+enda en lokal endring.
