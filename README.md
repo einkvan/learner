@@ -10,3 +10,5 @@ ny endring
 endring laget i detached head modus
 
 another change made in the remote
+
+and another...
