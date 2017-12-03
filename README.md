@@ -14,3 +14,5 @@ another change made in the remote
 and another.yanked and put other..
 
 dette er en my linje som jeg ønsker å legge til etter at jeg har hentet ned siste versjon fra repo
+
+dette er en ny linje som bør komme etter repo versjonen
