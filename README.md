@@ -27,3 +27,5 @@ lokale endringer som skal inn sist!
 skal inn til slutt
 
 enda en lokal endring.
+
+lokal endring #2, denne skal inn vha rebase
