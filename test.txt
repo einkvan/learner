@@ -1,5 +1,6 @@
 ﻿en fil og teste med. endret på remote.
 
 endret igjen på remote.
-t e s t  
- 
+t e s t 
+
+added on remote
